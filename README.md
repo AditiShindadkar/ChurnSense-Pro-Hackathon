@@ -28,7 +28,3 @@ ChurnSense Pro is an AI-powered decision system that predicts customer churn and
 pip install -r requirements.txt
 python -m streamlit run App.py
 
-## 📸 Demo
-
-![App Screenshot](<img width="1192" height="553" alt="image" src="https://github.com/user-attachments/assets/20a4d23a-6022-4d44-abcd-b133a1af0b2a" />
-)
