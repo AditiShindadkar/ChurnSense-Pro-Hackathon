@@ -26,15 +26,11 @@ ChurnSense Pro is an AI-powered decision system that predicts customer churn and
 
 ---
 
-## 📄 2. `requirements.txt`
+## 📄 `requirements.txt`
 
 Run in terminal:
 
 ```bash
 pip freeze > requirements.txt
-
-
-
-```bash
 pip install -r requirements.txt
 python -m streamlit run app.py
