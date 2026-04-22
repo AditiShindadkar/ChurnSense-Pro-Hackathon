@@ -29,6 +29,8 @@ Turn raw customer data into **profit-driven decisions** using ML + optimization.
 - 🧩 Segment high-value customers  
 """)
 
+st.markdown("🔗 GitHub Repo: https://github.com/AditiShindadkar/ChurnSense-Pro-Hackathon")
+
 # -----------------------------
 # SIDEBAR
 # -----------------------------
