@@ -20,7 +20,7 @@ st.set_page_config(page_title="ChurnSense Pro", layout="wide")
 
 st.title("💰 ChurnSense Pro – AI Retention Intelligence System")
 
-st.markdown("🔗 GitHub Repo: https://github.com/AditiShindadkar/ChurnSense-Pro-Hackathon")
+st.markdown("🔗 GitHub Repo: https://github.com/AditiShindadkar/ChurnSense-Pro-AI-.git")
 
 st.markdown("""
 ### 🚀 AI-Powered Customer Retention Platform
